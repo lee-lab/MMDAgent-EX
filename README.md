@@ -1,7 +1,7 @@
 # MMDAgent-EX
 An extended version of MMDAgent for research, development and fun of dialogue system on multiple mobile / cloud environment.
 
-- [Top Web site] (https://mmdagent.lee-lab.org/)
+- [Top Web site](https://mmdagent.lee-lab.org/)
 
 ## What is here
 
