@@ -22,6 +22,6 @@ Execute the script at the top directory of your content.
 
 ```shell
 % cd content_topdir
-% mit add .
-% mit update
+% mit.pl add .
+% mit.pl update
 ```
