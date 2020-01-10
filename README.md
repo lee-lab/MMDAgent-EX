@@ -9,4 +9,4 @@ This page contains related tools and materials for MMDAgent-EX. It also has a Is
 
 ## Tools
 
-- mit - a tiny script to make and update content index file
+- mit - a tiny script to make and update content index file. [How to use it.](https://mmdagent-ex.dev/docs/create/mit/)
